@@ -1,6 +1,6 @@
 # Agenda Telefônica em Python
 
-Este é um projeto de agenda telefônica simples em Python, que permite listar, inserir, buscar, alterar, remover e salvar contatos em um arquivo.
+Este é um exercício para criar uma agenda telefônica simples em Python, que permite listar, inserir, buscar, alterar, remover e salvar contatos em um arquivo.
 
 ## Funcionalidades
 
